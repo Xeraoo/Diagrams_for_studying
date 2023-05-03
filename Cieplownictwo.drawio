@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T22:10:20.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="OzzOY3mmGwEbieAg3Tr1" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T22:11:29.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Z1UFOWzHcAk05Yhornhx" version="21.2.7" type="github">
   <diagram name="Strona-1" id="-JRYBfW9juQkN7pyR8Eu">
     <mxGraphModel dx="1195" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,11 +124,11 @@
         <mxCell id="jz41itDfaZis0rMnbhZA-15" value="9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="686" y="189" width="25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jz41itDfaZis0rMnbhZA-16" value="Temperatura powietrza zewnętrznego t&lt;sub&gt;p.z.&lt;/sub&gt;&amp;nbsp;[&lt;sup&gt;o&lt;/sup&gt;C]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="482" width="265" height="32" as="geometry" />
+        <mxCell id="jz41itDfaZis0rMnbhZA-16" value="&lt;b&gt;Temperatura powietrza zewnętrznego t&lt;sub&gt;p.z.&lt;/sub&gt;&amp;nbsp;[&lt;sup&gt;o&lt;/sup&gt;C]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="217" y="482" width="281" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="jz41itDfaZis0rMnbhZA-17" value="Obciążenie cieplne [MW]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
-          <mxGeometry x="659" y="225" width="151" height="26" as="geometry" />
+        <mxCell id="jz41itDfaZis0rMnbhZA-17" value="&lt;b&gt;Obciążenie cieplne [MW]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="655" y="225" width="159" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jz41itDfaZis0rMnbhZA-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="38" y="375" width="7" height="7" as="geometry" />
